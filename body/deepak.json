@@ -1,0 +1,1 @@
+{"request":{"method":"POST","urlPattern":"https://jsonplaceholder.typicode.com/users"},"response":{"status":200,"bodyFileName":"payment-agg/deepak.json","headers":{"Content-Type":"application/json"}}}
